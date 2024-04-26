@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+    text-decoration: none;
+}
+body{
+    background-image: url(image.jpg);
+    background-size: cover;
+}
+.main{
+    height: 60px;
+    background-color: black;
+}
+.amazon{
+    color: #f08804;
+    font-size: 25px;
+
+}
+button{
+    background-color: #f08804;
+}
+a{
+    margin-right: 200px;
+}
+.content{
+    height: 700px;
+}
+.contentbox{
+    height: 100px;
+    width: 100px; 
+    border: 2px solid black;  
+    display: inline-block;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
